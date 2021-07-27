@@ -11,3 +11,7 @@ Added package Microsoft.EntityFrameworkCore.Sqlite
 Added package Microsoft.EntityFrameworkCore.Tools
 
         dotnet add package Microsoft.EntityFrameworkCore.Tools
+
+Added package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
+
+        dotnet add package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore

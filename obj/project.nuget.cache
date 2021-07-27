@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ncQrKutmJMhbZY8KqZ4JrnMXWSfTM4EDPPugF0HVO9I7eefLAwqJQR0DascXj6vZ2X8hS3hqVauskLhuv+SaDQ==",
+  "dgSpecHash": "xa1rmcAaXvzR2KbHfRgXXTsDxvcMs65wGsMzuOucWWMHkgLYORM3sWTWcHTvUN87OZMFYpdXHHNGfvSRvcOyVA==",
   "success": true,
   "projectFilePath": "/home/ght/Projects/dotnet-aspnet-crud-mvc/dotnet-aspnet-crud-mvc.csproj",
   "expectedPackageFiles": [
     "/home/ght/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/home/ght/.nuget/packages/microsoft.aspnetcore.diagnostics.entityframeworkcore/5.0.8/microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.8.nupkg.sha512",
     "/home/ght/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/ght/.nuget/packages/microsoft.data.sqlite.core/5.0.8/microsoft.data.sqlite.core.5.0.8.nupkg.sha512",
     "/home/ght/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
