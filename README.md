@@ -4,6 +4,10 @@ Added package Microsoft.EntityFrameworkCore
 
         dotnet add package Microsoft.EntityFrameworkCore
 
-Added package Microsoft.EtityFrameworkCore.Sqlite
+Added package Microsoft.EntityFrameworkCore.Sqlite
 
         dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+
+Added package Microsoft.EntityFrameworkCore.Tools
+
+        dotnet add package Microsoft.EntityFrameworkCore.Tools
