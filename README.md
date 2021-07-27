@@ -19,3 +19,5 @@ Added package Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore
 Added connection in archive appsettings.json
 
 Added folder Data and class ApplicationDbContext
+
+Added configuration of connection in Startup.cs
